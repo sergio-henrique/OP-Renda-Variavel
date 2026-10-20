@@ -1,0 +1,136 @@
+OP Renda Variável
+Política de Privacidade
+
+Versão: 1.0
+
+Data da revisão: 19 de outubro de 2026
+
+1. A quem esta política se aplica
+
+Esta política explica o tratamento de dados pessoais relacionado ao OP Renda Variável Gestão de investimentos e apuração tributária, denominado OP Renda Variável ou “OPRV”: aplicativo para Windows destinado à organização de operações, posições, proventos e informações tributárias de investimentos.
+
+Ela abrange o funcionamento do aplicativo, suas comunicações externas e as informações encaminhadas ao atendimento do produto. A conta criada no OPRV é local e distinta da conta Microsoft utilizada na Store.
+
+Responsável pelo aplicativo e pelo tratamento dos dados recebidos no atendimento: Sérgio Santos.
+
+Contato para privacidade e exercício de direitos: sergio.henrique.o.santos@outlook.com. Os papéis relativos aos dados mantidos localmente pelo usuário ou por um profissional são explicados na seção 10.
+
+2. Onde seus dados ficam
+
+O banco de trabalho do OPRV fica no computador do usuário. O aplicativo não oferece sincronização automática desse banco com um servidor do fornecedor. A instalação do programa não concede ao suporte acesso remoto ao computador, ao banco ou aos documentos importados.
+
+O funcionamento local não significa ausência de conexão com a internet. O aplicativo consulta a Microsoft Store para licenciamento e compras, acessa fontes de dados de mercado e pode baixar componentes de IA. Essas comunicações são descritas na seção 5.
+
+Serviços de backup do Windows, OneDrive, sincronização de pastas ou outras ferramentas habilitadas pelo usuário podem manter cópias segundo suas próprias configurações e políticas. Essas ferramentas são distintas do armazenamento e da cópia de segurança oferecidos pelo OPRV.
+
+3. Quais informações são tratadas
+
+O conteúdo efetivamente tratado depende dos recursos utilizados e dos arquivos e campos preenchidos pelo usuário.
+
+Grupo — Informações e uso
+Conta local e recuperação — Nome de usuário, verificadores criptográficos da senha e do código de recuperação, situação da conta e datas de criação ou alteração, para autenticação e recuperação do acesso
+Investidores e custódia — Nome, CPF ou CNPJ, data de nascimento ou abertura quando informada, corretoras e identificadores de contas ou clientes, para organizar e separar os registros de cada investidor
+Documentos importados — Nome, caminho de origem, tamanho, identificação pelo conteúdo, texto extraído e informações impressas nos PDFs ou planilhas selecionados, inclusive dados pessoais que esses documentos contenham
+Operações e resultados — Ativos, datas, quantidades, preços, custos, posições, eventos, proventos, empréstimos, confirmações, tributos, pagamentos e ajustes, para executar as funcionalidades solicitadas
+Histórico e preferências — Alterações de registros, usuário responsável, horários, configurações de exibição e processamento, cliente selecionado e dados usados para rastrear as origens dos cálculos
+Aceite e instalação — Identificador aleatório da instalação, versões e identificações dos Termos e da Licença, versão do aplicativo e data/hora do aceite registradas pelo computador
+Licenciamento — Identificadores dos produtos e SKUs devolvidos pela Store, situação e vencimento da assinatura, indicação de avaliação quando fornecida, datas de verificação e controle da validade offline
+Diagnóstico e atendimento — Registros locais de falhas, informações técnicas e, quando o usuário entra em contato, endereço de e-mail, mensagens e arquivos que ele decidir enviar
+
+Documentos de corretagem podem trazer informações além das necessárias à apuração, como endereço e dados de contato. O texto extraído pode conservar essas informações para conferência do documento. Selecione apenas os documentos necessários ao uso pretendido.
+
+O OPRV guarda verificadores criptográficos da senha e do código de recuperação, não uma cópia recuperável desses segredos. O código pode ser copiado, impresso, salvo ou encaminhado pelo próprio usuário quando é apresentado. Proteja também essas cópias.
+
+4. Finalidades e fundamentos do tratamento
+
+As informações são utilizadas para organizar o acervo solicitado pelo usuário, autenticar o acesso local, importar e conferir documentos, calcular e apresentar resultados, preservar histórico, produzir relatórios e cópias de segurança, verificar a assinatura e prestar atendimento.
+
+Quando o tratamento de dados pessoais estiver sujeito à LGPD, os fundamentos aplicáveis dependem da atividade e de quem a realiza. Para o fornecimento do produto e o atendimento solicitado pelo próprio titular, pode ser necessária a execução de contrato ou de procedimentos preliminares a seu pedido. Obrigações legais ou regulatórias e o exercício regular de direitos podem fundamentar tratamentos específicos, nos limites necessários a cada finalidade. No uso profissional, cabe ao responsável pelo acervo definir e demonstrar o fundamento adequado ao serviço prestado a cada cliente.
+
+Esta política não representa consentimento genérico para qualquer utilização dos dados. Quando uma finalidade exigir consentimento, ele deverá ser solicitado de maneira específica. O exercício de direitos não depende de concordância com usos desnecessários ao serviço.
+
+O aplicativo não contém uma função de publicidade comportamental, venda do acervo financeiro ou envio das notas ao fornecedor para treinamento de modelos de IA.
+
+5. Comunicações externas e destinatários
+
+As solicitações pela internet permitem que o destinatário receba informações técnicas da conexão, como endereço IP, horário e características do cliente HTTP, além dos parâmetros necessários ao recurso utilizado. Mesmo a consulta de um código público pode, quando associada a outros elementos, revelar interesse em determinado ativo.
+
+Destinatário ou serviço — Finalidade e informações envolvidas
+Microsoft Store e serviços da conta Microsoft — Distribuição e atualização do aplicativo, apresentação e compra das assinaturas e verificação da licença. A Microsoft trata os dados da conta e do pagamento; o OPRV recebe as informações de produto e licença necessárias ao acesso
+B3 — Consulta de cotações, cadastros, eventos, proventos, instrumentos e dados históricos. As solicitações podem conter códigos de ativos, datas, identificadores públicos de emissores e outros critérios da consulta
+CVM e repositórios dos documentos públicos consultados — Obtenção de cadastros, avisos e documentos de companhias. As consultas utilizam identificadores públicos e critérios como empresa, documento e período
+brapi, para logotipos — Obtenção de imagem pelo código do ativo quando não há imagem disponível no pacote ou no cache local
+GitHub, Hugging Face e infraestrutura de distribuição utilizada por esses serviços — Download do motor e dos modelos de IA escolhidos. São solicitados os arquivos necessários à instalação, com os dados técnicos da conexão
+Provedor de e-mail e destinatários escolhidos pelo usuário — Atendimento, compartilhamento de documentos ou envio do próprio código de recuperação, quando o usuário realizar essas ações
+
+As consultas de dados de mercado não exigem o envio do banco financeiro completo, das quantidades da carteira ou do CPF do investidor a esses provedores. O aplicativo não pede a senha de acesso da corretora ou do portal de investimentos para realizar as consultas públicas descritas aqui.
+
+O OPRV não recebe dados de cartão nem a senha da conta Microsoft. A compra e o gerenciamento da cobrança ocorrem nos serviços da Microsoft. Consulte a Política de Privacidade da Microsoft (https://www.microsoft.com/pt-br/privacy/privacystatement), a Política de Privacidade do GitHub (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) e a Política de Privacidade da Hugging Face (https://huggingface.co/privacy), conforme os serviços utilizados.
+
+Os provedores externos podem utilizar infraestrutura em outros países. O tratamento que realizam segue suas responsabilidades e políticas, além das normas aplicáveis. Quando o responsável pelo OPRV realizar uma transferência internacional de dados pessoais, deverá observar os mecanismos e requisitos legais correspondentes; a simples utilização do aplicativo não substitui essas exigências.
+
+6. Inteligência artificial
+
+A leitura por IA fornecida na configuração padrão do OPRV é executada no próprio computador. O motor recebe localmente o texto ou as imagens dos documentos necessários à tarefa. O processamento não depende de enviar notas de corretagem a uma API de IA em nuvem.
+
+O motor e os modelos são baixados separadamente, por ação do usuário. Seus distribuidores recebem as solicitações de download, não as notas para realizar a leitura. Após a instalação e configuração, a IA pode participar da importação quando essa opção estiver habilitada. O usuário pode alterar essa preferência e remover os componentes pelos recursos disponíveis em Configurações.
+
+O conteúdo processado, as respostas e as informações extraídas podem permanecer na memória durante a tarefa e nos registros ou caches locais que permitam conferir ou reaproveitar a leitura. Não há, nessa funcionalidade, etapa de treinamento do modelo com o acervo do usuário.
+
+Alterações técnicas do ambiente, integrações feitas por terceiros ou uso de serviços externos configurados fora do fluxo padrão podem modificar os destinatários dos dados. Esta descrição não deve ser usada como garantia de processamento local para configurações modificadas.
+
+7. Segurança, diagnóstico e limites de proteção
+
+O banco de trabalho é criptografado, com chave protegida pelo Windows para o usuário atual. A chave do banco é distinta da senha de entrada. O cache da licença também utiliza proteção vinculada à conta do Windows. As cópias de segurança geradas pelo aplicativo são protegidas por senha escolhida pelo usuário.
+
+Essas medidas não tornam o equipamento imune a malware, acesso pela própria conta do Windows, captura de tela ou exposição de arquivos que o usuário exporte, copie ou imprima. Proteja o acesso ao computador, mantenha as atualizações e guarde as cópias e suas senhas com cuidado.
+
+As falhas podem ser registradas em arquivos locais de texto, fora do banco criptografado, com contexto, horário, tipo de erro, mensagem e informações técnicas. O aplicativo procura mascarar números identificáveis como CPF/CNPJ e senhas em textos de conexão, mas isso não garante a remoção de todo dado pessoal de uma mensagem, caminho de arquivo ou diagnóstico. Os arquivos são rotacionados, mantendo o registro atual e o anterior; a troca é acionada quando o atual alcança aproximadamente 512 KB.
+
+O aplicativo não implementa o envio automático desses arquivos de diagnóstico ao fornecedor. A coleta de diagnósticos realizada pelo próprio Windows ou pela Store depende dos serviços e das configurações aplicáveis da Microsoft.
+
+Se ocorrer um incidente de segurança envolvendo dados sob responsabilidade do atendimento ou da distribuição do OPRV, serão adotadas as providências cabíveis, inclusive comunicações aos titulares e à autoridade quando exigidas pela legislação. Questões de segurança podem ser comunicadas pelo contato da seção 1.
+
+8. Suporte e envio voluntário de arquivos
+
+O suporte recebe o conteúdo que o usuário encaminhar por e-mail, como descrição do problema, versão do aplicativo, capturas de tela e anexos. O envio deve se limitar ao necessário; sempre que possível, substitua os dados pessoais por exemplos fictícios antes de compartilhar.
+
+Não envie senha da conta local, senha da conta Microsoft, senha de cópia de segurança ou código de recuperação. O recurso que permite encaminhar o código de recuperação abre o programa de e-mail do usuário com a mensagem preparada; a confirmação do envio e o destinatário permanecem sob seu controle. Esse recurso não envia o código automaticamente ao suporte.
+
+Se um atendimento precisar de documentos adicionais, a finalidade e o conteúdo necessário deverão ser esclarecidos. Informações recebidas não se tornam autorização para acesso remoto, publicidade ou uso do acervo em finalidade distinta do atendimento. Uma eventual obrigação legal de divulgação será atendida apenas nos limites aplicáveis aos dados que efetivamente estiverem sob responsabilidade do destinatário.
+
+9. Conservação, exclusão e cópias
+
+Os registros financeiros permanecem no banco local enquanto o usuário mantiver esse acervo. O aplicativo não os apaga automaticamente porque a assinatura venceu. Registros relacionados podem exigir tratamento conjunto para preservar a integridade dos dados, e o histórico de alterações e as cópias anteriores podem conservar versões antigas.
+
+Pontos de restauração automáticos ficam na pasta local, com retenção dos dez mais recentes. Eles não substituem uma cópia de segurança externa. Arquivos de backup, relatórios, impressões, documentos originais e arquivos enviados a terceiros ficam sujeitos ao controle do local ou destinatário em que forem guardados. Excluir um registro do banco atual não apaga automaticamente essas outras cópias.
+
+Desinstalar ou redefinir o aplicativo pode remover seus dados locais e a chave do banco. Antes de fazê-lo, preserve uma cópia de segurança válida e sua senha se desejar continuar usando o acervo. A remoção dos dados do aplicativo não cancela por si só a assinatura da Store e não elimina documentos originais ou arquivos salvos em outras pastas, mídias, e-mails ou serviços de backup.
+
+O atendimento conserva as mensagens e os arquivos recebidos durante o tempo necessário para resolver a solicitação e, quando cabível, cumprir obrigações legais ou exercer direitos. Encerradas essas finalidades e inexistindo fundamento para conservação, os dados deverão ser eliminados ou anonimizados. Pedidos sobre esse material podem ser enviados ao canal de privacidade.
+
+10. Uso profissional e dados de terceiros
+
+Quando um profissional registra dados de clientes, é ele quem escolhe os documentos, as finalidades do serviço, as pessoas autorizadas e a conservação do acervo sob seu controle. Deve observar a LGPD e as obrigações aplicáveis à relação com esses clientes.
+
+Os papéis de controlador e operador são definidos pela atuação efetiva em cada tratamento. O fornecimento de um programa instalado localmente não significa, por si só, que o fornecedor receba ou opere todo o banco do profissional. Se dados forem encaminhados para atendimento, as responsabilidades desse fluxo devem considerar a finalidade e as instruções efetivamente aplicáveis.
+
+O titular cujos dados estejam no acervo de um profissional pode solicitar seus direitos a esse responsável. O canal de privacidade do OPRV continua disponível para esclarecer o funcionamento do produto e atender pedidos relativos aos dados que estejam sob sua própria responsabilidade.
+
+11. Seus direitos e como exercê-los
+
+Nos termos da legislação aplicável, o titular pode solicitar confirmação do tratamento, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou irregulares; informações sobre compartilhamentos; portabilidade nos limites regulamentares; eliminação de dados tratados com consentimento, observadas as hipóteses de conservação; informação sobre a possibilidade de não consentir e suas consequências; revogação do consentimento e oposição nos casos previstos em lei. Também pode solicitar a revisão de decisões tomadas exclusivamente por tratamento automatizado que afetem seus interesses, quando aplicável.
+
+Envie o pedido ao contato da seção 1, descrevendo o direito pretendido e a relação com o produto. Poderão ser solicitadas somente as informações necessárias para confirmar a identidade e evitar a divulgação de dados a terceiros. Os pedidos serão tratados gratuitamente, nos prazos e condições legais, com explicação de eventual limitação ou necessidade de conservação.
+
+Como o fornecedor não tem acesso automático ao banco local, o atendimento pode orientar a consulta, correção e gestão das cópias no próprio computador. Isso não afasta os direitos previstos em lei. A cópia de segurança do OPRV é um formato de restauração no aplicativo; não equivale a um recurso universal de exportação para outro fornecedor.
+
+O aplicativo não transmite declarações ao Fisco nem toma decisões de concessão de crédito ou negociação de ativos em nome do investidor. Seus cálculos e classificações podem ser conferidos e corrigidos pelos recursos de revisão. Eventuais direitos relacionados ao tratamento automatizado permanecem assegurados.
+
+O titular também pode recorrer à Autoridade Nacional de Proteção de Dados — ANPD (https://www.gov.br/anpd/pt-br/assuntos/titular-de-dados), sem prejuízo dos demais canais e direitos legais.
+
+12. Atualizações desta política
+
+Alterações desta política serão identificadas por versão e data. Mudanças relevantes nas finalidades, nos destinatários ou nas condições do tratamento deverão ser informadas de maneira adequada. Quando houver necessidade de consentimento específico, uma atualização do texto não o substituirá.
+
+A versão aplicável será a efetivamente disponibilizada ao usuário. A data de revisão deste documento, isoladamente, não comprova sua publicação. Os Termos de Uso, a Licença de Usuário Final e esta política se complementam conforme seus respectivos assuntos.
