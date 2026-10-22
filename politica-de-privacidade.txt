@@ -1,9 +1,9 @@
 OP Renda Variável
 Política de Privacidade
 
-Versão: 1.0
+Versão: 1.1
 
-Data da revisão: 19 de outubro de 2026
+Data da revisão: 22 de outubro de 2026
 
 1. A quem esta política se aplica
 
@@ -57,8 +57,8 @@ As solicitações pela internet permitem que o destinatário receba informaçõe
 
 Destinatário ou serviço — Finalidade e informações envolvidas
 Microsoft Store e serviços da conta Microsoft — Distribuição e atualização do aplicativo, apresentação e compra das assinaturas e verificação da licença. A Microsoft trata os dados da conta e do pagamento; o OPRV recebe as informações de produto e licença necessárias ao acesso
-B3 — Consulta de cotações, cadastros, eventos, proventos, instrumentos e dados históricos. As solicitações podem conter códigos de ativos, datas, identificadores públicos de emissores e outros critérios da consulta
-CVM e repositórios dos documentos públicos consultados — Obtenção de cadastros, avisos e documentos de companhias. As consultas utilizam identificadores públicos e critérios como empresa, documento e período
+Fontes de dados públicos de mercado — Consulta de cotações, cadastros, eventos, proventos, instrumentos e dados históricos. As solicitações podem conter códigos de ativos, datas, identificadores públicos de emissores e outros critérios da consulta
+Cadastros e repositórios públicos de companhias abertas — Obtenção de cadastros, avisos e documentos de companhias. As consultas utilizam identificadores públicos e critérios como empresa, documento e período
 brapi, para logotipos — Obtenção de imagem pelo código do ativo quando não há imagem disponível no pacote ou no cache local
 GitHub, Hugging Face e infraestrutura de distribuição utilizada por esses serviços — Download do motor e dos modelos de IA escolhidos. São solicitados os arquivos necessários à instalação, com os dados técnicos da conexão
 Provedor de e-mail e destinatários escolhidos pelo usuário — Atendimento, compartilhamento de documentos ou envio do próprio código de recuperação, quando o usuário realizar essas ações
